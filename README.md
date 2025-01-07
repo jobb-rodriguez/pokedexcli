@@ -1,1 +1,3 @@
-# pokedexcli
+Pokedex CLI
+====
+
